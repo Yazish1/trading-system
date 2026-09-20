@@ -1,7 +1,5 @@
 #ifndef HASH_H
 #define HASH_H
-#include <stdint.h>
-#include <stdlib.h>
 
 #define ARRAY_SIZE 256
 
